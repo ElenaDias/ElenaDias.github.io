@@ -7,7 +7,7 @@
 
 2. Per le icone ho utilizzato due librerie:
   - Bootstrap Icons (incluso nel template): https://icons.getbootstrap.com/
-  -Fontawesome: https://fontawesome.com/
+  - Fontawesome: https://fontawesome.com/
 
 3. Per integrare la possibilità di fare il submit utilizzando solo HTML5, ho implementato: https://formspree.io/forms/mpzbaygz/integration
 
